@@ -1,0 +1,35 @@
+body{
+ background: url(../images/poncho.jpg);
+ 
+ 
+
+  background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0.5) 80%), url(../images/poncho.jpg) no-repeat;
+display: compact;
+  background-size: 1440px 800px;
+ background-repeat:no-repeat;
+}
+
+
+}	
+ footer{
+		background-color:whitesmoke;
+	}
+
+	.info{
+		opacity: .9;
+	}
+
+
+
+	small{
+		color: #122;
+	}
+
+
+ul{
+	opacity: 0.8;
+}
+
+h1{
+	opacity: 2;
+}
